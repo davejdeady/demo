@@ -1,9 +1,3 @@
 THIS IS AN ADDITION
 THIS IS ANOTHER ADDITION ON THE FEATURE BRANCH
-THIS IS ANOTHER ADDITION TO THE FEATURE BRANCHgit 
-
-<<<<<<< HEAD
-and yet another addition on main....will it add to feature - THIS IS GOING TO CAUSE A MERGE CONFLICT? 
-=======
-and yet another addition on main....will it add to feature - ADDING THIS LINE FROM ANOTHER MACHINE? 
->>>>>>> 4c7b2b24ad238e95ec9f114a2956c8c223263310
+THIS IS ANOTHER ADDITION TO THE FEATURE BRANCH
